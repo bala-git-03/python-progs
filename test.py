@@ -12,3 +12,4 @@ while guess != secret:
         print("Too high!")
     else:
         print("You got it!")
+        print
